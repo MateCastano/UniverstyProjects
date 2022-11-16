@@ -1,0 +1,16 @@
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\bin\Debug\net5.0\08 Ejercicio Parcial 2.exe
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\bin\Debug\net5.0\08 Ejercicio Parcial 2.deps.json
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\bin\Debug\net5.0\08 Ejercicio Parcial 2.runtimeconfig.json
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\bin\Debug\net5.0\08 Ejercicio Parcial 2.runtimeconfig.dev.json
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\bin\Debug\net5.0\08 Ejercicio Parcial 2.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\bin\Debug\net5.0\ref\08 Ejercicio Parcial 2.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\bin\Debug\net5.0\08 Ejercicio Parcial 2.pdb
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.csprojAssemblyReference.cache
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.AssemblyInfoInputs.cache
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.AssemblyInfo.cs
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.csproj.CoreCompileInputs.cache
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\ref\08 Ejercicio Parcial 2.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.pdb
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\08 Ejercicio Parcial 2\obj\Debug\net5.0\08 Ejercicio Parcial 2.genruntimeconfig.cache

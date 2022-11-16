@@ -1,0 +1,16 @@
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\bin\Debug\net5.0\Aterrizar.exe
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\bin\Debug\net5.0\Aterrizar.deps.json
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\bin\Debug\net5.0\Aterrizar.runtimeconfig.json
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\bin\Debug\net5.0\Aterrizar.runtimeconfig.dev.json
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\bin\Debug\net5.0\Aterrizar.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\bin\Debug\net5.0\ref\Aterrizar.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\bin\Debug\net5.0\Aterrizar.pdb
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.csprojAssemblyReference.cache
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.AssemblyInfoInputs.cache
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.AssemblyInfo.cs
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.csproj.CoreCompileInputs.cache
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\ref\Aterrizar.dll
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.pdb
+D:\Users\mateo_mrxfa7c\Desktop\UTN\Programacion III\Aterrizar\obj\Debug\net5.0\Aterrizar.genruntimeconfig.cache
