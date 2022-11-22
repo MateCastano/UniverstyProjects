@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655926511 source:d:\users\mateo_mrxfa7c\desktop\utn\programacion ii\ejercicios videos\listas multiples\ejercicio 1 guirnaldas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+

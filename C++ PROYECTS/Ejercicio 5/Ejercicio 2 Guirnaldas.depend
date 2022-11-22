@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1656024165 source:d:\users\mateo_mrxfa7c\desktop\utn\programacion ii\ejercicios teams\listas\ejercicio 2 guirnaldas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
