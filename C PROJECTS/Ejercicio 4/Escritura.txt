@@ -1,0 +1,33 @@
+    printf("\n\tCARGA DE PRODUCTOS\n");
+    for(int i = 0; i < NUM; i ++)
+    {
+        printf("\nIngrese el codigo: ");
+        fflush(stdin);
+        scanf("%d", &x.codigo);
+
+        printf("Ingrese el proveedor: ");
+        fflush(stdin);
+        gets(x.proveedor);
+
+        printf("Ingrese el precio: ");
+        fflush(stdin);
+        scanf("%f", &x.codigo);
+
+        printf("\n");
+        fwrite(&x, sizeof(x), 1, BDPRODUCTOS);
+    }
+
+    printf("\n\tCARGA DE AUMENTOS\n");
+    for(int i = 0; i < NUM2; i ++)
+    {
+        printf("Ingrese el proveedor: ");
+        fflush(stdin);
+        gets(y.proveedor);
+
+        printf("Ingrese el aumento: ");
+        fflush(stdin);
+        scanf("%f", &y.aumento);
+
+        printf("\n");
+        fwrite(&y, sizeof(y), 1, BDAUMENTOS);
+    }

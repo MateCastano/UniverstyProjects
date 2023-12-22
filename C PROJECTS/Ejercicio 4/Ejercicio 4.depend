@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652195633 source:d:\users\mateo_mrxfa7c\desktop\utn\programacion ii\ejercicios libro\archivos binarios\ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
