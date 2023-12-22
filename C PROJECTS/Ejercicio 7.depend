@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652394453 source:d:\users\mateo_mrxfa7c\desktop\utn\programacion ii\ejercicios teams\ejercicio 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
